@@ -126,6 +126,17 @@ The design compiles completely to a valid binary bitstream configuration. Resour
 * **Junction Temperature:** 46.9 °C
 * **Thermal Margin:** 38.1 °C (Safe operating threshold)
 
+### Demo - UBUNTU
+
+![Demo_ubuntu](images/ubuntu.jpeg)
+
+### Demo - Windows
+
+![Demo_Windows](images/windows.jpeg)
+
+### Pynq Working
+
+![Pynq_Demo](images/demo.jpeg)
 
 ## Notes
 
